@@ -1,0 +1,2 @@
+cargo run -- init <day>
+cargo run -- run <day> [--part <part>] [--extra arg1 arg2 arg3] [--input path/to/input]
